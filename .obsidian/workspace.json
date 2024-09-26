@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Primo capitolo (Java)/Prima lezione.md",
+                "file": "Informatica/Dart/Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1df0a4c847794825",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Primo capitolo (Java)/Prima lezione.md",
+                "file": "Informatica/Dart/Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Primo capitolo (Java)/Prima lezione.md",
+                "file": "Informatica/Dart/Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Primo capitolo (Java)/Prima lezione.md"
+                "file": "Informatica/Dart/Classes.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,9 +156,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "b15cbb0df79a9ff5",
+  "active": "d3aa649e02bdb4f0",
   "lastOpenFiles": [
+    "Informatica/Dart/Enum.md",
+    "Informatica/Dart/Classes.md",
+    "Informatica/Dart/Null safety.md",
     "Informatica/Primo capitolo (Java)/Prima lezione.md",
+    "Informatica/Dart",
     "Appunti belli.md",
     "Informatica/Primo capitolo (Java)",
     "Informatica",
