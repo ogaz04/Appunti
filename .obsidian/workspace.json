@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatica/Dart/Classes.md",
+                "file": "Informatica/Dart/Null safety.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatica/Dart/Classes.md",
+                "file": "Informatica/Dart/Null safety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatica/Dart/Classes.md",
+                "file": "Informatica/Dart/Null safety.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatica/Dart/Classes.md"
+                "file": "Informatica/Dart/Null safety.md"
               }
             }
           },
@@ -158,9 +158,10 @@
   },
   "active": "d3aa649e02bdb4f0",
   "lastOpenFiles": [
+    "Informatica/Dart/Factory Constructor.md",
     "Informatica/Dart/Enum.md",
-    "Informatica/Dart/Classes.md",
     "Informatica/Dart/Null safety.md",
+    "Informatica/Dart/Classes.md",
     "Informatica/Primo capitolo (Java)/Prima lezione.md",
     "Informatica/Dart",
     "Appunti belli.md",
